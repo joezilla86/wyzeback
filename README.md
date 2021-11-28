@@ -27,3 +27,7 @@ GND - GND
 ## Notes  
 - This only works for the door sensor for now. The same probably can be done with the motion sensor.
 - The MAC must match the programmed MAC, it seems there firmware checks this against the MAC burned in CCFG.
+
+
+## Instructions
+https://forums.wyzecam.com/t/unbricking-wyze-contact-sensor-pcb-reset-pin/146856/102
